@@ -1,0 +1,13 @@
+05/04/2023 11:51:09 - INFO - positions_extraction.py - running positions extraction
+05/04/2023 11:51:09 - INFO - positions_extraction.py - reproject to metric crs
+05/04/2023 11:51:10 - INFO - positions_extraction.py - ...success
+05/04/2023 11:51:10 - INFO - positions_extraction.py - positions extracted
+05/04/2023 11:51:10 - INFO - georeference_module.py - Start georeference...
+05/04/2023 11:51:10 - INFO - georeference_module.py - Number of processes limited to 8
+05/04/2023 11:52:47 - INFO - positions_extraction.py - running positions extraction
+05/04/2023 11:52:48 - INFO - positions_extraction.py - reproject to metric crs
+05/04/2023 11:52:48 - INFO - positions_extraction.py - ...success
+05/04/2023 11:52:48 - INFO - positions_extraction.py - positions extracted
+05/04/2023 11:52:48 - INFO - georeference_module.py - Start georeference...
+05/04/2023 11:52:48 - INFO - georeference_module.py - Number of processes limited to 8
+05/04/2023 11:53:05 - INFO - georeference_module.py - Images georeferenced. Time taken: 16 seconds
